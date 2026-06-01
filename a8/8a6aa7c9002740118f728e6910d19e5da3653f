@@ -1,0 +1,31 @@
+tests/ISignerTests.cs
+  s_11d3d7e2c8059f::t_4179714099b390 17,27,60-72,103-104,112,123,132
+lib/ContentAuthenticity.csproj
+  s_11d3d7e2c8059f::t_b009fc2ee7c804 123,126-127
+  s_11d3d7e2c8059f::t_8f233fa4fbea8d 124-125
+  s_11d3d7e2c8059f::t_0bd4ada55f97f3 122
+  s_11d3d7e2c8059f::t_01f7fd9923bfc7 128-129
+lib/Signer.cs
+  s_11d3d7e2c8059f::t_1a1b3e641dc339 52-54,133-161,210
+tests/SignerTests.cs
+  s_11d3d7e2c8059f::t_caa41ba7816da6 100
+  s_11d3d7e2c8059f::t_e28f806d969c76 59-99,101-103,145-148,157
+lib/ISigner.cs
+  s_11d3d7e2c8059f::t_ff83eb4cc1826c 16-17,31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a88a6aa7c9002740118f728e6910d19e5da3653f",
+  "prompts": {},
+  "sessions": {
+    "s_11d3d7e2c8059f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_17e2ea646ffeNc14ClKGCXoPt2",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Carl Reid <kontakt@carlreid.dk>"
+    }
+  }
+}
